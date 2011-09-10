@@ -1,0 +1,97 @@
+.panels-flexible-region {
+  padding: 0;
+}
+
+.panels-flexible-region-inside {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.panels-flexible-region-inside-first {
+  padding-left: 0;
+}
+
+.panels-flexible-region-inside-last {
+  padding-right: 0;
+}
+
+.panels-flexible-column {
+  padding: 0;
+}
+
+.panels-flexible-column-inside {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.panels-flexible-column-inside-first {
+  padding-left: 0;
+}
+
+.panels-flexible-column-inside-last {
+  padding-right: 0;
+}
+
+.panels-flexible-row {
+  padding: 0 0 0.5em 0;
+  margin: 0;
+}
+
+.panels-flexible-row-last {
+  padding-bottom: 0;
+}
+
+.panels-flexible-column-4-main {
+  float: left;
+  width: 75.3014%;
+}
+
+.panels-flexible-column-4-3 {
+  float: left;
+  width: 23.6986%;
+}
+
+.panels-flexible-4-inside {
+  padding-right: 0px;
+}
+
+.panels-flexible-4 {
+  width: auto;
+}
+
+.panels-flexible-region-4-recent_link_region {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-row-4-1-inside {
+  padding-right: 0px;
+}
+
+.panels-flexible-region-4-recent_goal_region {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-row-4-4-inside {
+  padding-right: 0px;
+}
+
+.panels-flexible-region-4-affiliate_offer {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-row-4-5-inside {
+  padding-right: 0px;
+}
+
+.panels-flexible-region-4-company_blog {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-row-4-6-inside {
+  padding-right: 0px;
+}
+
